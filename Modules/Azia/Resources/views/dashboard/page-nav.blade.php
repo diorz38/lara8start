@@ -22,7 +22,7 @@
                 <h6>All Categories</h6>
               </div><!-- media-body -->
             </div><!-- media -->
-            <button onclick="window.print()" class="btn btn-purple d-print-none">Cetak</button>
+            <button onclick="window.print()" class="btn btn-purple btn-sm d-print-none">Cetak</button>
           </div>
         </div><!-- az-dashboard-one-title -->
 
