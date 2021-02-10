@@ -1,0 +1,13 @@
+{
+    "name": "Azia",
+    "alias": "azia",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Azia\\Providers\\AziaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
